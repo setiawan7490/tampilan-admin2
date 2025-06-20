@@ -16,7 +16,7 @@
       <thead class="bg-gray-100">
         <tr>
           <th class="p-3 border-b">Judul</th>
-          <th class="p-3 border-b">Kategori</th>
+          <th class="p-3 border-b">Jenis</th>
           <th class="p-3 border-b">Tanggal</th>
           <th class="p-3 border-b">Aksi</th>
         </tr>
@@ -27,9 +27,9 @@
           <td class="p-3 border-b">Berita</td>
           <td class="p-3 border-b">19 Juni 2025</td>
           <td class="p-3 border-b">
-            <a href="#" class="text-green-600 hover:underline">Accept</a>
-            <a href="#" class="text-blue-600 hover:underline">Edit</a> |
-            <a href="#" class="text-red-600 hover:underline">Hapus</a>
+            <a href="#" class="text-green-600 hover:underline">Accept</a> |
+            <a href="#" class="text-blue-600 hover:underline">Show</a> |
+            <a href="#" class="text-red-600 hover:underline">Delete</a>
           </td>
         </tr>
         <tr class="hover:bg-gray-50">
@@ -38,7 +38,7 @@
           <td class="p-3 border-b">17 Juni 2025</td>
           <td class="p-3 border-b">
             <a href="#" class="text-green-600 hover:underline">Accept</a> |
-            <a href="#" class="text-blue-600 hover:underline">Edit</a> |
+            <a href="#" class="text-blue-600 hover:underline">Show</a> |
             <a href="#" class="text-red-600 hover:underline">Delete</a>
           </td>
         </tr>

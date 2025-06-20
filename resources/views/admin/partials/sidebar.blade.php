@@ -3,7 +3,7 @@
     <ul class="space-y-2">
         <li><a href="/admin/dashboard" class="text-blue-600 hover:underline">Dashboard</a></li>
         <li><a href="/admin/artikel" class="text-blue-600 hover:underline">Artikel</a></li>
-        <li><a href="/admin/verifikasi" class="text-blue-600 hover:underline">Verifikasi</a></li>
+        <li><a href="/admin/verifikasi" class="text-blue-600 hover:underline">Verifikasi Advokat</a></li>
     </ul>
 
     <div class="pt-4 border-t mt-4">
