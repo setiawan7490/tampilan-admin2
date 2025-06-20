@@ -5,7 +5,7 @@
 @section('content')
   <div class="bg-white-50 border border-gray-200 rounded-lg p-6 shadow-md mb-6">
     <h1 class="text-3xl font-bold text-gray-800 mb-4">Dashboard</h1>
-    <p class="text-gray-600">Selamat datang di halaman dashboard admin!</p>
+    <p class="text-gray-600">Dashboard-admin</p>
     
   </div>
    <div class="bg-grey-50 border border-white-200 rounded-lg p-6 shadow-md">

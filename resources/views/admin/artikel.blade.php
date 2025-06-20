@@ -27,6 +27,7 @@
           <td class="p-3 border-b">Berita</td>
           <td class="p-3 border-b">19 Juni 2025</td>
           <td class="p-3 border-b">
+            <a href="#" class="text-green-600 hover:underline">Accept</a>
             <a href="#" class="text-blue-600 hover:underline">Edit</a> |
             <a href="#" class="text-red-600 hover:underline">Hapus</a>
           </td>
@@ -36,8 +37,9 @@
           <td class="p-3 border-b">Pengumuman</td>
           <td class="p-3 border-b">17 Juni 2025</td>
           <td class="p-3 border-b">
+            <a href="#" class="text-green-600 hover:underline">Accept</a> |
             <a href="#" class="text-blue-600 hover:underline">Edit</a> |
-            <a href="#" class="text-red-600 hover:underline">Hapus</a>
+            <a href="#" class="text-red-600 hover:underline">Delete</a>
           </td>
         </tr>
       </tbody>
