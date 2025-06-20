@@ -1,4 +1,4 @@
-@extends('admin.layouts.verifikasi-layout')
+@extends('admin.layouts.verifikasi.index-layout')
 
 @section('title', 'Antrian Verifikasi')
 

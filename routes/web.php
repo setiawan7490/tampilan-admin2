@@ -29,9 +29,9 @@ Route::post('/login', function (Request $request) {
 })->name('login.proses');
 
 Route::middleware('auth')->group(function () {
-    Route::get('/admin/dashboard', fn () => view('admin.dashboard'))->name('admin.dashboard');
-    Route::get('/admin/artikel', fn () => view('admin.artikel'))->name('admin.artikel.index');
-    Route::get('/admin/verifikasi', fn () => view('admin.verifikasi'))->name('admin.verifikasi');
+    Route::get('/admin/dashboard', fn () => view('admin.pages.dashboard.index'))->name('admin.dashboard');
+    Route::get('/admin/artikel', fn () => view('admin.pages.artikel.index'))->name('admin.artikel.index');
+    Route::get('/admin/verifikasi', fn () => view('admin.pages.verifikasi.index'))->name('admin.verifikasi');
 });
 
 //test route

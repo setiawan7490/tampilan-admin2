@@ -1,4 +1,4 @@
-@extends('admin.layouts.artikel-layout')
+@extends('admin.layouts.artikel.index-layout')
 
 @section('title', 'Daftar Artikel')
 
